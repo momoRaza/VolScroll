@@ -13,3 +13,6 @@ After installation, enable permissions in "Seucrity and Privacy/Accessibility"
 Usage:
 User the mouse wheel to adjust the volume
 Press the mouse wheel to mute and unmute
+
+ANY SUPPORT WOULD BE GREATLY APPRECIATED
+buymeacoffee.com/momo424
