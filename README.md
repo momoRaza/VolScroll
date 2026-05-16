@@ -1,6 +1,8 @@
 ### Support my work
 
-[![Buy Me A Coffee](https://shields.io)](https://buymeacoffee.com/momo424)
+<a href="https://buymeacoffee.com/momo424" target="_blank">
+  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=your_username&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee">
+</a>
 
 # VolScroll
 Adjust volume by mouse scroll wheel. (MacOS 26) Apple Silicon
