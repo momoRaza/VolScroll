@@ -1,4 +1,4 @@
-[![Buy Me A Coffee](https://buymeacoffee.com)](https://buymeacoffee.com)]
+[![Buy Me A Coffee](https://shields.io)](https://buymeacoffee.com)
 
 # VolScroll
 Adjust volume by mouse scroll wheel. (MacOS 26) Apple Silicon
