@@ -1,7 +1,7 @@
 ### Support my work
 
 <a href="https://buymeacoffee.com">
-  <img src="[https://buymeacoffee.com](https://cdn.buymeacoffee.com/buttons/default-orange.png)" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
+  <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
 </a>
 
 # VolScroll
