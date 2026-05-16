@@ -1,6 +1,8 @@
+### Support my work
 
-[![Buy Me A Coffee](https://shields.io)](https://buymeacoffee.com/momo424)
+[![Buy Me A Coffee](https://shields.io)](https://buymeacoffee.com)
 
+### Next Section Header
 
 # VolScroll
 Adjust volume by mouse scroll wheel. (MacOS 26) Apple Silicon
