@@ -1,3 +1,5 @@
+[![Buy Me A Coffee](https://buymeacoffee.com)](https://buymeacoffee.com/momo424)
+
 # VolScroll
 Adjust volume by mouse scroll wheel. (MacOS 26) Apple Silicon
 
