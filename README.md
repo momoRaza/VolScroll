@@ -1,7 +1,7 @@
 ### Support my work
 
-<a href="https://buymeacoffee.com/momo424" target="_blank">
-  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=your_username&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee">
+<a href="https://buymeacoffee.com">
+  <img src="https://buymeacoffee.com" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
 </a>
 
 # VolScroll
